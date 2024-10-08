@@ -1,0 +1,21 @@
+# Ignore Directory
+pcb/gerber_data
+example
+eagle_lib/APA*
+design_rule
+
+# Ignore list for Eagle, a PCB layout tool
+
+# Backup files
+*.s#?
+*.b#?
+*.l#?
+*.b$?
+*.s$?
+*.l$?
+
+# Autorouter files
+*.pro
+*.job
+
+.vscode/
